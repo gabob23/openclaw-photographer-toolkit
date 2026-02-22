@@ -29,7 +29,7 @@ cp -r openclaw-photographer-toolkit/skills/ap-photo-captions ~/.openclaw/skills/
 
 ## About
 
-Built by [Gabriel Gauffre](https://www.gabrielgauffre.com), a documentary and editorial photographer based in Paris. These workflows power a one-person studio that operates like a small team — captioning 40+ photos in real-time during a WSJ shoot, tracking expenses from phone photos, monitoring grant deadlines, and managing client outreach.
+Built by [Gabriel Gauffre](https://www.gabrielgauffre.com), a documentary and editorial photographer based in Paris. These workflows power a one-person studio that operates like a small team — captioning 40+ photos in real-time during a shoot for a major US newspaper, tracking expenses from phone photos, monitoring grant deadlines, and managing client outreach.
 
 If you're a photographer or creative freelancer using OpenClaw, these skills might save you hours.
 
