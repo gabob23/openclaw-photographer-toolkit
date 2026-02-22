@@ -9,7 +9,7 @@ These skills are extracted from real production workflows used on assignments fo
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [ap-photo-captions](skills/ap-photo-captions/) | Draft AP-style photo captions in real-time during editorial shoots | ✅ Ready |
-| photo-expense-tracker | Receipt photo → structured CSV for French tax compliance | 🚧 Coming soon |
+| [photo-expense-tracker](skills/photo-expense-tracker/) | Receipt photo → structured CSV for French tax compliance | ✅ Ready |
 | grant-tracker | Find and track photography grants, residencies, and open calls | 🚧 Coming soon |
 | editorial-briefing | Daily morning/evening briefing system for freelancers | 🚧 Coming soon |
 | client-lead-tracker | Lightweight CRM for freelance photographer leads | 🚧 Coming soon |
